@@ -34,8 +34,8 @@ pip install -r requirements.txt
 ```
 
 4. Download required models:
-   - Mistral 7B: [Download Link]
-   - Stable Diffusion 1.5: [Download Link]
+   - Mistral 7B
+   - Stable Diffusion 1.5 
 
 ## Usage
 1. Start Stable Diffusion WebUI:
